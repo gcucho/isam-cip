@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>map_go.png</file>
+        <file>picture_add.png</file>
+        <file>picture_delete.png</file>
+        <file>pictures.png</file>
+        <file>map_magnify.png</file>
+    </qresource>
+</RCC>

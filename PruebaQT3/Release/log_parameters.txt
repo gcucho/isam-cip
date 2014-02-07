@@ -1,0 +1,24 @@
+wmpx_f: 0.600000
+matchconf_f: 0.400000
+confthres_f: 1.000000
+seam_mpx: 0.100000
+compsmpx_f: -1.000000
+blendstrn_f: 5.000000
+output_s: result3.bmp
+bamask_s: XXXXX
+savegrph_s: outgraph.txt
+try_gpu_i: 0
+bundleadj_i: 0
+wavecorr_i: 0
+blend_i: 0
+expcomp_i: 0
+seam_i: 0
+warp_i: 0
+Images to process:
+F:/Imagenes20_12_13/Tetracam/TTC_2662.bmp
+F:/Imagenes20_12_13/Tetracam/TTC_2665.bmp
+F:/Imagenes20_12_13/Tetracam/TTC_2666.bmp
+F:/Imagenes20_12_13/Tetracam/TTC_2667.bmp
+F:/Imagenes20_12_13/Tetracam/TTC_2668.bmp
+F:/Imagenes20_12_13/Tetracam/TTC_2669.bmp
+F:/Imagenes20_12_13/Tetracam/TTC_2670.bmp

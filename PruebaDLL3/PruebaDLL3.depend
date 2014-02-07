@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1389186879 source:d:\users\gcucho\desktop\computer vision\proyecto is\pruebadll3\main.cpp
+	"main.h"
+	<fstream>
+	"opencv2/opencv_modules.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/stitching/detail/autocalib.hpp"
+	"opencv2/stitching/detail/blenders.hpp"
+	"opencv2/stitching/detail/camera.hpp"
+	"opencv2/stitching/detail/exposure_compensate.hpp"
+	"opencv2/stitching/detail/matchers.hpp"
+	"opencv2/stitching/detail/motion_estimators.hpp"
+	"opencv2/stitching/detail/seam_finders.hpp"
+	"opencv2/stitching/detail/util.hpp"
+	"opencv2/stitching/detail/warpers.hpp"
+	"opencv2/stitching/warpers.hpp"
+
+1389122581 d:\users\gcucho\desktop\computer vision\proyecto is\pruebadll3\main.h
+	<windows.h>
+	"structures.h"
+	<iostream>
+
+1389039091 d:\users\gcucho\desktop\computer vision\proyecto is\pruebadll3\structures.h
+	<vector>
+	<string>
+
